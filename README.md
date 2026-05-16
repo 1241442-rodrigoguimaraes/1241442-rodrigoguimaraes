@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hello, I'm Rodrigo Guimarães
 
-<!--
-**1241442-rodrigoguimaraes/1241442-rodrigoguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at ISEP 
+🌐 Aspiring Network & Cloud Engineer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and continuously improving my skills in software development, operating systems, cloud computing and networking.
+I enjoy building practical projects, learning new technologies and solving problems through hands-on experience.
+
+🌱 Currently, improving skills as:
+
+Software Engineering Best Practices
+Java & Object-Oriented Programming
+Algorithms and Data Structures
+Linux Systems
+Git & Collaborative Development
+Databases
+Networking Fundamentals
+
+🛠️ Technologies & Tools
+
+Java, SQL, Bash
+Git & GitHub
+Linux, Windows
+
+
+📚 Academic Background
+
+📍 ISEP — Instituto Superior de Engenharia do Porto
+
+🎯 Goals
+
+Gain real-world development experience
+Collaborate on interesting projects
+
+
+Thanks for visiting my profile! 🚀
+
+
